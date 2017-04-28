@@ -1,4 +1,4 @@
-[Featur](#Support what kinds of controls to refresh)
+[Featur](#Support)
 
 
 
