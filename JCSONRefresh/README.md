@@ -4,10 +4,10 @@
 
 ## Contents
 * Getting Started
-    * [Features【Support what kinds of controls to refresh】](#Support what kinds of controls to refresh)
-    * [Installation【How to use MJRefresh】](#How to use MJRefresh)
-    * [Who's using【More than hundreds of Apps are using MJRefresh】](#>More than hundreds of Apps are using MJRefresh)
-    * [Classes【The Class Structure Chart of MJRefresh】](#The Class Structure Chart of MJRefresh)
+    * [Features【Support what kinds of controls to refresh】](#Supportwhatkindsofcontrolstorefresh)
+    * [Installation【How to use MJRefresh】](#HowtouseMJRefresh)
+    * [Who's using【More than hundreds of Apps are using MJRefresh】](#>MorethanhundredsofAppsareusingMJRefresh)
+    * [Classes【The Class Structure Chart of MJRefresh】](#TheClassStructureChartofMJRefresh)
 * Comment API
 	* [MJRefreshComponent.h](#MJRefreshComponent.h)
 	* [MJRefreshHeader.h](#MJRefreshHeader.h)
